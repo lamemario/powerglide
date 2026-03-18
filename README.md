@@ -7,7 +7,7 @@
 
 > **Local-first hybrid CLI/GUI performance tracker for Sprint Paddlers.**
 
-PowerGlide is a specialised tool designed for varsity-level canoeing athletes. It bridges the gap between messy mobile notes and high-level sports science analytics, providing injury prevention modeling (ACWR) and strength-to-speed correlation tracking without ever leaving your local machine.
+PowerGlide is a specialised tool designed for varsity-level canoeing athletes. It bridges the gap between messy mobile notes and high-level sports science analytics, providing injury prevention modeling (ACWR) and strength-to-speed correlation tracking without ever leaving your local machine. *To be honest, I built this for myself after tearing my hamstring. 2 Grade 2 tears, mate. I wasn't even aware that I was that fatigued. So that got me thinking about having some research-backed metrics to keep track of training load so that I could prevent myself from over-training and getting injured. This is truly a tracker made for myself, haha.*
 
 ---
 
@@ -169,6 +169,3 @@ caution_max = 1.5
 - **Qin et al. (2025):** "Acute to chronic workload ratio (ACWR) for predicting sports injury risk."
 - **LeSuer et al. (1997):** "The Accuracy of Prediction Equations for Estimating 1-RM Performance."
 - **Crisafulli et al. (2025):** "Power–Load Relationship of Bench Press and Prone Bench Pull in International Medal-Winning Canoeists."
-
----
-*To be honest, I built this for myself after tearing my hamstring. 2 Grade 2 tears, mate. I wasn't even aware that I was that fatigued. So that got me thinking about having some research-backed metrics to keep track of training load so that I could prevent myself from getting further injured. This is the tracker I made for myself, haha.*
