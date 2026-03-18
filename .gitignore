@@ -1,0 +1,77 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+share/python-wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+MANIFEST
+
+# Environments
+.env
+.venv
+venv/
+ENV/
+env.bak/
+venv.bak/
+
+# IDEs and Editors
+.idea/
+.vscode/
+*.swp
+*.swo
+.project
+.pydevproject
+.settings/
+
+# Testing and Coverage
+.pytest_cache/
+.coverage
+.coverage.*
+.cache
+nosetests.xml
+coverage.xml
+*.cover
+*.py,cover
+htmlcov/
+.hypothesis/
+.nox/
+
+# Database and User Data
+*.db
+*.sqlite
+data/*.db
+data/*.sqlite
+data/exercises.json
+missing_feb_workouts.txt
+
+# External SDKs and Binaries
+connectiq-sdk-manager-windows/
+*.exe
+*.dll
+*.so
+*.dylib
+
+# Temporary / Generated files
+*.resolved
+*.log
+.DS_Store
+Thumbs.db
+
+# Project Specific
+Research Papers/
