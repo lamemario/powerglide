@@ -1,0 +1,19 @@
+[database]
+path = "data/app.db"
+
+[acwr]
+acute_window = 7
+chronic_window = 28
+# Risk zones (user-tunable). ACWR < undertrained_max = undertrained; <= optimal_max = optimal; <= caution_max = caution; > caution_max = danger.
+undertrained_max = 0.80
+optimal_max = 1.30
+caution_max = 1.50
+
+[defaults]
+unit = "kg"
+date_format = "DD/MM/YY"
+
+[volume_coefficients]
+primary = 1.0
+secondary = 0.5
+stabilizer = 0.25
